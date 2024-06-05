@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BookProject.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SelectedUser" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ErrorLoginCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.</Value>
+    </Setting>
+    <Setting Name="Database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BookDB</Value>
+    </Setting>
+    <Setting Name="SQLLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AppUser</Value>
+    </Setting>
+    <Setting Name="SQLPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">111</Value>
+    </Setting>
+    <Setting Name="AdminName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="AdminPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">111</Value>
+    </Setting>
+    <Setting Name="libraryName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">المكتبة الشاملة</Value>
+    </Setting>
+    <Setting Name="AutoBackup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AutoBackupPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\BookDB</Value>
+    </Setting>
+    <Setting Name="BackupCounter" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="BackupFiles" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="BackupDays" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">365</Value>
+    </Setting>
+    <Setting Name="StartUp" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FrmMainSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1000, 600</Value>
+    </Setting>
+    <Setting Name="FrmMainLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">100, 100</Value>
+    </Setting>
+    <Setting Name="DateFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dd-MM-yyyy</Value>
+    </Setting>
+    <Setting Name="FrmMainWindowState" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">2, 62, 138</Value>
+    </Setting>
+    <Setting Name="NuberOne" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0914365876</Value>
+    </Setting>
+    <Setting Name="NuberTwo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0914365876</Value>
+    </Setting>
+    <Setting Name="LibraryWebsite" Type="System.String" Scope="User">
+      <Value Profile="(Default)">النجيلة-العمارات</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
