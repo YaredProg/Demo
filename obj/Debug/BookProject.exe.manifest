@@ -50,7 +50,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tQ40fwy5vVEZtmGYtvnyCpDw/Mbar7vXQrSRx/w93y4=</dsig:DigestValue>
+        <dsig:DigestValue>5zwcj0lUS89TPmUGrIUKLoNqI6WfQA2oaGreLvIcuK8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -258,6 +258,15 @@
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name=".gitignore" size="13">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1CDB9SLU6X7cnlsjg/ekVh0cD7GMwRapQNZ87xpvUNc=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="BookProject.exe.config" size="3729">
     <hash>
       <dsig:Transforms>
