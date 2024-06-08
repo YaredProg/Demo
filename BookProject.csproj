@@ -252,6 +252,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="book-shelf_12602470.ico" />
     <EmbeddedResource Include="Resources\arrow-refresh-4-icon.png" />
   </ItemGroup>
