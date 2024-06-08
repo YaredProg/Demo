@@ -8,11 +8,8 @@ using System.Data.SqlClient;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.IO;
-<<<<<<< HEAD
 using System.Threading.Tasks;
-=======
 using System.Linq;
->>>>>>> test
 using System.Windows.Forms;
 
 namespace BookProject.Forms
